@@ -1,2 +1,2 @@
 # bill-tracker
-HTML5/CSS3/JavaScript/PHP/MySQL
+HTML5/CSS3/BOOTSTRAP/JavaScript/PHP/MySQL
