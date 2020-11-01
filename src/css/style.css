@@ -1,0 +1,67 @@
+:root {
+	--footer-height: 4rem;
+}
+
+.main {
+	min-height: 100vh;
+	position: relative;
+	padding-bottom: var(--footer-height);
+}
+
+.footer {
+	position: absolute;
+	height: var(--footer-height);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
+
+.navbar {
+	height: var(--footer-height);
+}
+
+::placeholder {
+	color: #000 !important;
+}
+
+table thead {
+	color: #fff !important;
+}
+
+.arrow {
+	font-size: 1.4rem;
+}
+
+.arrow-up {
+	color: green;
+}
+
+.arrow-down {
+	color: red;
+}
+
+.hide {
+	display: none !important;
+}
+
+.delete-btn-income-outcome {
+	color: red;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.info-success {
+	color: green;
+}
+
+.info-danger {
+	color: red;
+}
+
+.card-text-details {
+	font-size: 1.1rem;
+}
